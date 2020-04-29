@@ -17,7 +17,7 @@ They seem to be correct, at least mathematically.
 * Makes me think I should have an even stronger mathematical foundation.
   * Should look at many pre-deeplearning papers for theoretical catchup
 
-# Contributions
+## Contributions
 
 1. Generalize optimality results (of volumetric scan fusion) for non-rigit case
 2. Represent volumetric warp efficiently
