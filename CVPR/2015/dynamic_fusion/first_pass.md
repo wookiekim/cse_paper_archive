@@ -26,3 +26,8 @@ They seem to be correct, at least mathematically.
 * Depends on adaptive, sparse, hierarchial volumetric basis functions + innovative algorithm
 
 First system capable of real-time dense reconstruction in dynamic scenes using a SINGLE depth camera
+
+## Clarity
+Easy to read and well-written, with in-context formulas to boost understanding.
+* The problem is that my mathematical understanding is not adequate for full understanding. 
+* Calls for studying
