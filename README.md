@@ -7,3 +7,5 @@ Each paper will follow **my own format** of paper summaries, inspired by Andrew 
 
 * The following writeup has been downloaded in this repository in case the link changes.
 * My summary of the paper can be found [here](three_pass.md)
+
+My summary format can be found [here](summary_format.md)
