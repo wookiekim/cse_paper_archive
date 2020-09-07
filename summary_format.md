@@ -4,6 +4,9 @@
 ### Year, Conference Name
 ### Author Names, Group Name
 
+##### Why did I read this paper?
+Personal study, current area of research, group study...
+
 #### Paper keywords / Context
 Keyword 1, Keyword2, Keyword3, Keyword 4
 
