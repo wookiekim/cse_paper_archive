@@ -49,4 +49,7 @@ In the same paper, they proposed adversarial training method
 Problem: Adversarial training could be adopted to generalize the model architecture, but they will ONLY BE EFFECTIVE ON A SPECIFIC TYPE OF ATTACK that the model is trained on.
 * the adversarial training method needs to be further investigated and evaluted for better adversarial defense.
 
-
+Other medium writeups:
+* https://medium.com/mlreview/the-intuition-behind-adversarial-attacks-on-neural-networks-71fdd427a33b
+* https://medium.com/onfido-tech/adversarial-attacks-and-defences-for-convolutional-neural-networks-66915ece52e7
+* Adversarial Attacks. Is the drawing above a portrait of a… | by Jonathan Hui | Jul, 2020 | Medium

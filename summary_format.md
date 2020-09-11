@@ -12,8 +12,12 @@ Personal study, current area of research, group study...
 #### Paper keywords / Context
 Keyword 1, Keyword2, Keyword3, Keyword 4
 
+***
+
 #### What problem does this paper try to solve?
 A short explanation, preferably around 3~5 sentences
+
+***
 
 #### Main contributions of the paper
 Contribution 1
@@ -25,6 +29,8 @@ Contribution 2
 Contribution 3
 * Explanation of Contribution 3
 
+***
+
 ### Key figures of the paper
 ![Example Image](https://thumbs.dreamstime.com/b/example-stamp-grunge-vintage-isolated-white-background-sign-153942456.jpg =500x)
 Figure caption, or additional explanations I want to add.
@@ -32,13 +38,19 @@ Figure caption, or additional explanations I want to add.
 ![Example Image](https://thumbs.dreamstime.com/b/example-stamp-28420393.jpg =500x)
 Figure caption, or additional explanations I want to add.
 
+***
+
 #### Paper Highlights
 Multiple short sentences, preferably not more than 10. Some highlights (more important than key points) that are worth noting. Probably the most important section, lest the paper will have to be read again.
+
+***
 
 #### New approach/technique/method used in this paper 
 New approach/technique/method
 * Key element 1
 * Key element 2
+
+***
 
 #### Experiment - Takeaway
 Experiment 1 : Explanation of experiment 1
@@ -47,6 +59,8 @@ Experiment 1 : Explanation of experiment 1
 
 Experiment 2: Explanation of experiment 2
 * Takeaway from experiment 2
+
+***
 
 #### Inputs and Outputs 
 Inputs:
@@ -59,11 +73,15 @@ Outputs:
 * Camera intrinsics?
 * 3D pose estimation?
 
+***
+
 #### Loss function (Objective function)
 Ex) Cross Entropy Loss, Hinge Loss...
 * Equation for the loss
 * Characteristics of the loss function
 * Where this loss is widely used (first use if possible)
+
+***
 
 #### Evaluation Metrics Used
 Ex) MSE, PCK, MAP...
@@ -71,12 +89,18 @@ Ex) MSE, PCK, MAP...
 * The characteristics of the metric
 * Where this metric is widely used (first use if possible)
 
+***
+
 #### Datasets Used
 Ex) Pascal VOC, PF-Pascal, PF-Willow
 * Additional explanations per datasets (which subset was used...)
 
+***
+
 #### Conclusion and Future work
 Only if applicable
+
+***
 
 #### References worth following/noticing
 [Reference name 1](link)
@@ -84,6 +108,8 @@ Only if applicable
 
 [Reference name 2](link)
 * Short explanation
+
+***
 
 #### Assume I am a reviewer: Strengths and weaknesses, what could have been better?
 Notes on correctness
