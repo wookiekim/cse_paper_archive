@@ -1,6 +1,8 @@
 # Adversarial Attack and Defense
 aka Adversarial examples
 
+[Adversarial Learning Papers](https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html)
+
 ## [Medium: Adversarial Attack and Defense on Neural Networks in PyTorch](https://towardsdatascience.com/adversarial-attack-and-defense-on-neural-networks-in-pytorch-82b5bcd9171)
 
 Past researchers have indicated that as long as you know the "correct" method to change your data, you can force your network to perform poolrly on data which may not seem to be visually different through human eyes.
@@ -52,4 +54,4 @@ Problem: Adversarial training could be adopted to generalize the model architect
 Other medium writeups:
 * https://medium.com/mlreview/the-intuition-behind-adversarial-attacks-on-neural-networks-71fdd427a33b
 * https://medium.com/onfido-tech/adversarial-attacks-and-defences-for-convolutional-neural-networks-66915ece52e7
-* Adversarial Attacks. Is the drawing above a portrait of a… | by Jonathan Hui | Jul, 2020 | Medium
+* https://medium.com/@jonathan_hui/adversarial-attacks-b58318bb497b
