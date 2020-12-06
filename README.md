@@ -9,3 +9,12 @@ Each paper will follow **my own format** of paper summaries, inspired by Andrew 
 * My summary of the paper can be found [here](three_pass.md)
 
 My summary format can be found [here](summary_format.md)
+
+*** 
+
+1. [Learning Two-View Correspondences and Geometry using Order-Aware Network](paper_summaries/1.md)
+2. [D3Feat: Joint Learning of Dense Detection and Description of 3D Local features](paper_summaries/2.md)
+3. [Intriguing properties of neural networks](paper_summaries/3.md)
+4. [Road Extraction by Deep Residual U-Net](paper_summaries/4.md)
+5. [Neighbourhood Consensus Networks](paper_summaries/5.md)
+6. [Efficient Neighbourhood Consensus Networks via Submanifold Sparse Convolutions](paper_summaries/6.md)
