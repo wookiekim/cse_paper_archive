@@ -123,3 +123,5 @@ Terms that I did not understand, and their usage
 Figures - well labeled? with error bars?
 
 implicit assumptions, missing citations, and potential issues with experimental or analytical techniques?
+
+How could I improve this paper?
