@@ -52,6 +52,9 @@ New approach/technique/method
 
 ***
 
+#### Method Outline
+***
+
 #### Datasets Used
 Ex) Pascal VOC, PF-Pascal, PF-Willow
 * Additional explanations per datasets (which subset was used...)
